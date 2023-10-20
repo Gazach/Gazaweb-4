@@ -1,0 +1,12 @@
+Last activity : 10/29/2023
+- Fill blog recomandation content
+- create October2k23 file
+- give background to greetings
+- add footer
+- add button direct to Blog welcome page
+- create ErrorPage 404 page
+
+Last activity : 10/18/2023
+- creating blog recomandation(Not finish yet)
+- creating social media button
+- fixing miss css and HTML
